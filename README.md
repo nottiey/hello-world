@@ -1,2 +1,3 @@
 # hello-world
 This is my first git project
+#Hie I am Nothando Dhlamini. I am a female working towards her degree...
